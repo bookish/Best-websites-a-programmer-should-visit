@@ -139,10 +139,6 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
-- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) : A multi-day free course developed by Google's Android team for experienced programmers, covering syntax, ownership, generics, error handling, and concurrency with slides and exercises (2023).
-- [Rustfinisty](https://www.rustfinity.com/) : Browser-based interactive exercises for Rust basics, no setup needed—ideal for beginners or quick practice sessions (updated 2025).
-- [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/) : Hands-on collection of 100 progressively challenging exercises with a CLI verifier tool (wr), available in-browser or PDF (2024).
-- [Rust for C#/.NET Developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/) : This is a (non-comprehensive) guide for C# and .NET developers that are completely new to the Rust programming language.  
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
@@ -544,6 +540,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Khan Academy](https://www.youtube.com/channel/UC4a-Gbdw7vOaccHmFo40b9g) : Khan Academy youtube
 - [LearnCode.academy](https://www.youtube.com/channel/UCVTlvUkGslCV_h-nSAId8Sw) : 100% FREE Web Development tutorials, web site design tutorials, and more. Including, but not limited to: HTML, CSS, JavaScript, CSS Layouts, Responsive Design, React.js, Node.js, Angular.js, Docker, Dev
 - [Rachit Jain](https://www.youtube.com/channel/UC9fDC_eBh9e_bogw87DbGKQ/featured) : competitive programming
+- [Rust Crash Course for Beginners (2025)](https://www.youtube.com/watch?v=2Qb-5ID5O5I) - RUST tutorials, including labs access via Rust Labs for practical coding
 - [sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) : Python Programming tutorials, going further than just the basics. Learn about machine learning, finance, data analysis, robotics, web development, game development, and more.
 - [Steve Griffith](https://www.youtube.com/channel/UCTBGXCJHORQjivtgtMsmkAQ) : The videos on this channel are largely about web design & development with a good dose of mobile development thrown in just for fun. 
 - [The Coding Train](https://www.youtube.com/channel/UCvjgXvBlbQiydffZU7m1_aw) : In this YouTube channel I publish "creative coding" video tutorials every week. Subjects covered range from the basics of programming languages like JavaScript (with p5.js) and Java (with Processing) to generative algorithms like physics simulation, computer vision, and data visualization.
@@ -556,8 +553,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
-- [Rust Crash Course for Beginners (2025)](https://www.youtube.com/watch?v=2Qb-5ID5O5I) - YouTube video crash course from scratch, including labs access via Rust Labs for practical coding (February 2025).
-
+  
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
