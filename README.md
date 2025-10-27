@@ -139,8 +139,11 @@ When learning CS, there are some useful sites you must know to get always inform
 - [Udemy](https://www.udemy.com/) : Whether you want to learn or to share what you know, you’ve come to the right place. As a global destination for online learning, we connect people through knowledge.
 - [Scaler](https://www.scaler.com/topics/) : A curated interactive space for aspiring programmers to learn and master their coding skills. Also help in job interview.
 - [SQL Zoo](https://sqlzoo.net/wiki/SQL_Tutorial) : Learn SQL interactively in stages, from basic queries to complex operations.
+- [Comprehensive Rust](https://google.github.io/comprehensive-rust/) : A multi-day free course developed by Google's Android team for experienced programmers, covering syntax, ownership, generics, error handling, and concurrency with slides and exercises (2023).
+- [Rustfinisty](https://www.rustfinity.com/) : Browser-based interactive exercises for Rust basics, no setup needed—ideal for beginners or quick practice sessions (updated 2025).
+- [100 Exercises To Learn Rust](https://rust-exercises.com/100-exercises/) : Hands-on collection of 100 progressively challenging exercises with a CLI verifier tool (wr), available in-browser or PDF (2024).
+- [Rust for C#/.NET Developers](https://microsoft.github.io/rust-for-dotnet-devs/latest/) : This is a (non-comprehensive) guide for C# and .NET developers that are completely new to the Rust programming language.  
 - [SQLTest.online](https://sqltest.online) : Boost Your SQL Proficiency with Challenging Problems.
-
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -436,12 +439,8 @@ When learning CS, there are some useful sites you must know to get always inform
 - [JavatPoint](https://www.javatpoint.com/java-tutorial) : Best website to get a basic Java programming tutorial
 - [The Rust Programming Language Book](https://doc.rust-lang.org/book/title-page.html) : Explains the Rust programming language
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html#cookin-with-rust) : Quickly get an overview of the capabilities of the Rust crate ecosystem
-
 - [Getting start with python](https://riptutorial.com/ebook/python) : A-Z python programming concepts and methods.
-
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example/) : A collection of runnable examples that illustrate various Rust concepts and standard libraries
-
-
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
 </div>
@@ -557,6 +556,7 @@ When learning CS, there are some useful sites you must know to get always inform
 - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg): Web development tutorials
 - [Web Dev Simplified](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw): Tutorials based on Web development from basic to advanced.
 - [Take You Forward](https://www.youtube.com/c/takeUforward): Tutorials on Data structures and Algorithms in Java and C++.
+- [Rust Crash Course for Beginners (2025)](https://www.youtube.com/watch?v=2Qb-5ID5O5I) - YouTube video crash course from scratch, including labs access via Rust Labs for practical coding (February 2025).
 
 <div align="right">
   <b><a href="#index">↥ Back To Top</a></b>
